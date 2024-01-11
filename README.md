@@ -2,7 +2,7 @@
 
 <p align="center">
 Caso queiram ver meu outro site. <br/>
-<a href="mateusimanzano.github.io/">Site sobre as lontras.</a>
+<a href="http://mateusimanzano.github.io/">Site sobre as lontras.</a>
 </p>
 
 <p align="center">
